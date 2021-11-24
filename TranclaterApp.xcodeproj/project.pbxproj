@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				B2C95084274EA0660050A1A1 /* TranclaterAppApp.swift */,
-				B2C95086274EA0670050A1A1 /* ContentView.swift */,
+				B2C95093274EA08C0050A1A1 /* Model */,
+				B2C95092274EA07D0050A1A1 /* Views */,
 				B2C95088274EA0690050A1A1 /* Assets.xcassets */,
 				B2C9508A274EA0690050A1A1 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				B2C9508B274EA0690050A1A1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B2C95092274EA07D0050A1A1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B2C95086274EA0670050A1A1 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B2C95093274EA08C0050A1A1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
