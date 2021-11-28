@@ -11,7 +11,7 @@ struct ChoseATranslaterView: View {
     var body: some View {
         
         VStack {
-
+            
             
             
             

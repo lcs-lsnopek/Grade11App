@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B228C6F1275411BE0088F9EC /* TyperView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B228C6F0275411BD0088F9EC /* TyperView.swift */; };
+		B228C6F3275418770088F9EC /* PhotoTranslaterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B228C6F2275418770088F9EC /* PhotoTranslaterView.swift */; };
+		B228C6F527541AB80088F9EC /* VoiseTranslaterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B228C6F427541AB80088F9EC /* VoiseTranslaterView.swift */; };
+		B2A72DCB274EDDCF003867AD /* LanguageSeletionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2A72DCA274EDDCF003867AD /* LanguageSeletionView.swift */; };
 		B2C95085274EA0670050A1A1 /* TranclaterAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C95084274EA0660050A1A1 /* TranclaterAppApp.swift */; };
 		B2C95087274EA0670050A1A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C95086274EA0670050A1A1 /* ContentView.swift */; };
 		B2C95089274EA0690050A1A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2C95088274EA0690050A1A1 /* Assets.xcassets */; };
@@ -15,6 +19,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B228C6F0275411BD0088F9EC /* TyperView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TyperView.swift; sourceTree = "<group>"; };
+		B228C6F2275418770088F9EC /* PhotoTranslaterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoTranslaterView.swift; sourceTree = "<group>"; };
+		B228C6F427541AB80088F9EC /* VoiseTranslaterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiseTranslaterView.swift; sourceTree = "<group>"; };
+		B2A72DCA274EDDCF003867AD /* LanguageSeletionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageSeletionView.swift; sourceTree = "<group>"; };
 		B2C95081274EA0660050A1A1 /* TranclaterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TranclaterApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2C95084274EA0660050A1A1 /* TranclaterAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranclaterAppApp.swift; sourceTree = "<group>"; };
 		B2C95086274EA0670050A1A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +83,10 @@
 			children = (
 				B2C95086274EA0670050A1A1 /* ContentView.swift */,
 				B2C95094274EA6840050A1A1 /* ChoseATranslaterView.swift */,
+				B2A72DCA274EDDCF003867AD /* LanguageSeletionView.swift */,
+				B228C6F0275411BD0088F9EC /* TyperView.swift */,
+				B228C6F2275418770088F9EC /* PhotoTranslaterView.swift */,
+				B228C6F427541AB80088F9EC /* VoiseTranslaterView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -159,6 +171,10 @@
 				B2C95095274EA6840050A1A1 /* ChoseATranslaterView.swift in Sources */,
 				B2C95087274EA0670050A1A1 /* ContentView.swift in Sources */,
 				B2C95085274EA0670050A1A1 /* TranclaterAppApp.swift in Sources */,
+				B228C6F527541AB80088F9EC /* VoiseTranslaterView.swift in Sources */,
+				B228C6F3275418770088F9EC /* PhotoTranslaterView.swift in Sources */,
+				B228C6F1275411BE0088F9EC /* TyperView.swift in Sources */,
+				B2A72DCB274EDDCF003867AD /* LanguageSeletionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
